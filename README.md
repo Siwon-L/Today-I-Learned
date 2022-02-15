@@ -7,3 +7,11 @@
 # 글의 특징
 - 이 글에 쓰인 해결법, 공부 내용은 정답이 아닐 수 있고, 비유 등이 적절하지 않을 수 있습니다.
 - 틀린 부분에 대해 알려주고 싶은 욕망이 생기신다면, 111dltldnjs@gmail.com으로 메일 주세요!!!👍
+
+
+- [2022.02.07](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.07.md)
+- [2022.02.08](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.08.md)
+- [2022.02.10](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.10.md)
+- [2022.02.11](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.11.md)
+- [2022.02.14](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.14.md)
+- [2022.02.15](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.15.md)
