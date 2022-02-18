@@ -15,3 +15,4 @@
 - [2022.02.11](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.11.md)
 - [2022.02.14](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.14.md)
 - [2022.02.15](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.15.md)
+- [2022.02.17 휴먼_인터페이스_가이드](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.17%20%ED%9C%B4%EB%A8%BC_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EA%B0%80%EC%9D%B4%EB%93%9C.md)
