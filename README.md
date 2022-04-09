@@ -11,6 +11,7 @@
 # 기록
 - [2월](#2월)
 - [3월](#3월)
+- [4월](#4월)
 ## 2월
 - [2022.02.07](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.07.md)
 - [2022.02.08](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.08.md)
@@ -42,3 +43,9 @@
 - [2022.03.22 오토레이아웃( Priority, Hugging, Compression Resistance )](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.22%20%EC%98%A4%ED%86%A0%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83(%20Priority%2C%20Hugging%2C%20Compression%20Resistance%20).md)
 - [2022.03.24 오토레이아웃 2( Stack View )](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.24%20%EC%98%A4%ED%86%A0%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%202(%20Stack%20View%20).md)
 - [2022.03.25 View 업데이트](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.25%20View%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.md)
+- [2022.03.28 ARC, weak, unowned](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.28%20ARC%2C%20weak%2C%20unowned.md)
+- [2022.03.29 메모리 영역, 스레드, 프로세스](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.29%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%98%81%EC%97%AD%2C%20%EC%8A%A4%EB%A0%88%EB%93%9C%2C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.md)
+- [2022.03.31 App Delegate, Scene Delegate](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.31%20App%20Delegate%2C%20Scene%20Delegate.md)
+
+## 4월
+- [Frame와 Bounds](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.01%20Frame%EC%99%80%20Bounds.md)
