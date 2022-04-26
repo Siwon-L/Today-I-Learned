@@ -48,4 +48,11 @@
 - [2022.03.31 App Delegate, Scene Delegate](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.03/2022.03.31%20App%20Delegate%2C%20Scene%20Delegate.md)
 
 ## [4월](https://github.com/saafaaari/Today-I-Learned/tree/main/2022.04)
-- [Frame와 Bounds](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.01%20Frame%EC%99%80%20Bounds.md)
+- [2022.04.11 TableView](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.01%20Frame%EC%99%80%20Bounds.md)
+- [2022.04.14 Delegate와 DataSource](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.11%20TableView.md)
+- [2022.04.15 NSMutableAttributedString](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.14%20Delegate%EC%99%80%20DataSource.md)
+- [2022.04.18 필수적인 이니셜라이저 `required init` 과 실패가능한 이니셜라이져 `init?`](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.18%20%ED%95%84%EC%88%98%EC%A0%81%EC%9D%B8%20%EC%9D%B4%EB%8B%88%EC%85%9C%EB%9D%BC%EC%9D%B4%EC%A0%80%20%60required%20init%60%20%EA%B3%BC%20%EC%8B%A4%ED%8C%A8%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%9D%B4%EB%8B%88%EC%85%9C%EB%9D%BC%EC%9D%B4%EC%A0%B8%20%60init%3F%60.md)
+- [2022.04.19 사용자 정의 초기화 구문을 이용한 ViewController 생성](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.19%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%A0%95%EC%9D%98%20%EC%B4%88%EA%B8%B0%ED%99%94%20%EA%B5%AC%EB%AC%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20ViewController%20%EC%83%9D%EC%84%B1.md)
+- [2022.04.21 GCD(Grand Central Dispatch)](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.21%20GCD(Grand%20Central%20Dispatch).md)
+- [2022.04.22 Custom DispatchQueue & DispatchGroup](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.22%20Custom%20DispatchQueue%20%26%20DispatchGroup.md)
+- [2022.04.26 Race Condition & Custom Serial Queue](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.26%20Race%20Condition%20%26%20Custom%20Serial%20Queue.md)
