@@ -12,6 +12,7 @@
 - [2월](#2월)
 - [3월](#3월)
 - [4월](#4월)
+- [5월](#5)
 ## [2월](https://github.com/saafaaari/Today-I-Learned/tree/main/2022.02)
 - [2022.02.07](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.07.md)
 - [2022.02.08](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.02/2022.02.08.md)
@@ -56,3 +57,11 @@
 - [2022.04.21 GCD(Grand Central Dispatch)](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.21%20GCD(Grand%20Central%20Dispatch).md)
 - [2022.04.22 Custom DispatchQueue & DispatchGroup](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.22%20Custom%20DispatchQueue%20%26%20DispatchGroup.md)
 - [2022.04.26 Race Condition & Custom Serial Queue](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.26%20Race%20Condition%20%26%20Custom%20Serial%20Queue.md)
+- [2022.04.28 Operation](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.28%20Operation.md)
+- [2022.04.29 Protocol Oriented Programming(P.O.P)](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.04/2022.04.29%20Protocol%20Oriented%20Programming(P.O.P).md)
+
+## 5월
+- [2022.05.02 OperationQueue](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.05/2022.05.02%20OperationQueue.md)
+- [2022.05.03 RunLoop](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.05/2022.05.03%20RunLoop.md)
+- [2022.05.09 네트워크 통신(GET)](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.05/%202022.05.09%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%B5%EC%8B%A0(GET).md)
+- [2022.05.10 CollectionView(기본)](https://github.com/saafaaari/Today-I-Learned/blob/main/2022.05/2022.05.10%20CollectionView(%EA%B8%B0%EB%B3%B8).md)
